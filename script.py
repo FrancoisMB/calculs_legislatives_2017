@@ -5,6 +5,10 @@ Created on Wed May  4 14:43:57 2022
 @author: Francois
 """
 
+# Fichier source : https://www.data.gouv.fr/en/datasets/elections-legislatives-des-11-et-18-juin-2017-resultats-par-bureaux-de-vote-du-1er-tour/
+# Qu'il faut passer en excel
+# Puis enlever les colonnes en %
+# Puis renommer les colonnes de chaque candidat avec _1, _2, etc jusqu'à _27
 
 import os
 
